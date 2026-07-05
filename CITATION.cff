@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "The OCSI Challenge — open type-identification for the museum coins of Magna Graecia"
+authors:
+  - family-names: "Jurczak"
+    given-names: "Christophe"
+    affiliation: "Metamorphoses of Civilization collection"
+url: "https://metamorphoses-collection.org/ocsi/challenge"
+repository-code: "https://github.com/ChroniconCJ/ocsi-challenge"
+license: CC-BY-4.0
+version: "0.9"
+date-released: "2026-07-06"
